@@ -20,4 +20,4 @@ Analyze employee attrition and provide HR-friendly insights:
 - Open `Attrition_PieChart.png` for the quick visual.
 
 ## Author
-Your Name — Internship Project
+Bhumisha Gupta — Internship Project
